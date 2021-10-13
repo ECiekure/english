@@ -43,7 +43,5 @@
 <h3>3. gramatas nosaukums</h3>
 <p>teksts par 3. valodas gramatu</p>
 <img src="https://images-na.ssl-images-amazon.com/images/I/81yAo5ElQlL.jpg" alt="" style="width:20%; height: 60%;">
-
-
 </body>
 </html>
